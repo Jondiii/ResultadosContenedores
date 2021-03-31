@@ -1,0 +1,70 @@
+Fecha de creacion: 31/03/2021 16:45:29
+
+- - - - - - - - - - - - - - - - - -  
+PLANIFICACION de ABADINO 
+- - - - - - - - - - - - - - - - - -  
+
+DIA: 1
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 1
+Indices: [0, 4, 18, 19, 28, 30, 33, 42, 46, 50]
+Demanda: [30.0, 20.0, 50.0, 50.0, 20.0, 20.0, 20.0, 50.0, 30.0]
+Rutas: 
+[0, 28, 50, 19, 46, 18, 30, 4, 42, 33, 0]
+ - Distancia Total: 8259 m
+ - Carga Total: : 1050 toneladas
+ - Distancia Total: 105.0 min
+
+DIA: 2
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 2
+Indices: [0, 5, 8, 12, 14, 37, 39, 40, 43, 55, 57, 63]
+Demanda: [60.0, 60.0, 40.0, 60.0, 70.0, 40.0, 40.0, 20.0, 70.0, 40.0, 50.0]
+Rutas: 
+[0, 57, 14, 12, 5, 37, 8, 55, 40, 63, 39, 43, 0]
+ - Distancia Total: 21547 m
+ - Carga Total: : 550.0 toneladas
+ - Distancia Total: 163.0 min
+
+DIA: 3
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 3
+Indices: [0, 1, 9, 11, 15, 25, 29, 34, 35, 52, 58, 60, 62, 64, 68]
+Demanda: [90.0, 80.0, 60.0, 60.0, 30.0, 60.0, 30.0, 80.0, 30.0, 50.0, 60.0, 80.0, 90.0, 90.0]
+Rutas: 
+[0, 15, 29, 25, 52, 35, 62, 9, 60, 58, 64, 68, 11, 1, 34, 0]
+ - Distancia Total: 33250 m
+ - Carga Total: : 1010.0 toneladas
+ - Distancia Total: 217.0 min
+
+DIA: 4
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 4
+Indices: [0, 17, 26, 31, 38, 44, 45, 53, 61, 66]
+Demanda: [100.0, 100.0, 60.0, 70.0, 100.0, 80.0, 100.0, 40.0, 80.0]
+Rutas: 
+[0, 17, 53, 45, 26, 61, 44, 31, 66, 38, 0]
+ - Distancia Total: 38660 m
+ - Carga Total: : 1130.0 toneladas
+ - Distancia Total: 193.0 min
+
+DIA: 5
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 5
+Indices: [0, 16, 65, 69]
+Demanda: [50.0, 80.0, 100.0]
+Rutas: 
+[0, 16, 69, 65, 0]
+ - Distancia Total: 30126 m
+ - Carga Total: : 430.0 toneladas
+ - Distancia Total: 134.0 min
+
+DIA: 6
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 6
+Indices: [0, 2, 6, 13, 21, 22, 23, 24, 27, 41, 48, 51, 56, 67]
+Demanda: [90.0, 120.0, 80.0, 120.0, 80.0, 180.0, 120.0, 170.0, 180.0, 120.0, 120.0, 90.0, 80.0]
+Contenedor(es) desbordado(s): [6, 21, 23, 24, 27, 41, 48, 51]
+#contenedor desborda cuando demanda > 100
+
+Coste: [-9991.741, -9978.453, -9966.75, -9961.34, -9969.874, 10000, 10000, 10000]
