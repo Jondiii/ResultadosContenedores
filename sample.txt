@@ -1,0 +1,15 @@
+Fecha de creacion: 14/04/2021 18:58:04
+
+- - - - - - - - - - - - - - - - - -  
+PLANIFICACION de ABADINO 
+- - - - - - - - - - - - - - - - - -  
+
+DIA: 1
+- - - - - - - 
+#Indice de los contenedores a recoger el dia 1
+Indices: [0, 4, 5, 18, 19, 28, 30, 33, 42, 46, 50, 57]
+Demanda: [30.0, 30.0, 20.0, 50.0, 50.0, 20.0, 20.0, 20.0, 50.0, 30.0, 20.0]
+Contenedor(es) desbordado(s): [19, 28, 46]
+#contenedor desborda cuando demanda > 100
+
+Coste: [10000, 10000, 10000, 10000, 10000, 10000]
